@@ -1,3 +1,5 @@
+# Hi, I’m Shruti Salve 👋
+### A passionate software developer building things with Java, Python & Web technologies 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shruti-salve-855526270) 
