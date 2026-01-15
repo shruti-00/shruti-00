@@ -23,4 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shruti-00&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/shruti-00/shruti-00/output/github-contribution-grid-snake.svg)
+
